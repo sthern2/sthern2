@@ -4,10 +4,11 @@
       alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
+#
+
+<p align="center"> 
 Estudante de Análise e Desenvolvimento de Sistemas.
 Apaixonada por UX Design e Front-End, dedicada a melhorar a experiência do usuário.
-</p>
 
 ---
 
