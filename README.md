@@ -40,7 +40,4 @@ Apaixonada por UX Design e Front-End, dedicada a melhorar a experiência do usu�
 
 ---
 
-## 🎨 Estudando Atualmente:
-- HTML, CSS e JavaScript
-- UX Design e Prototipagem no Figma
-- Python 
+
