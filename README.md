@@ -5,9 +5,8 @@
 </div>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  🎨 Apaixonada por UX Design e Front-End <br>
-  🚀 Explorando HTML, CSS, JavaScript e Python
+Estudante de Análise e Desenvolvimento de Sistemas.
+Apaixonada por UX Design e Front-End, dedicada a melhorar a experiência do usuário.
 </p>
 
 ---
