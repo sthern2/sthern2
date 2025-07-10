@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile! 👋</h1>
+<h1 style="color:#ff4ec7; text-align:center;">Welcome to my profile!</h1>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -39,4 +39,4 @@
 ## 🎨 Estudando Atualmente:
 - HTML, CSS e JavaScript
 - UX Design e Prototipagem no Figma
-- Python básico
+- Python 
