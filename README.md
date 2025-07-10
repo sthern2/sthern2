@@ -1,5 +1,8 @@
-![Welcome](https://img.shields.io/badge/Welcome_to_my_profile!-FF4EC7?style=for-the-badge&logo=github)
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F733AD&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!"
+      alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
