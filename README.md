@@ -1,4 +1,5 @@
-<h1 style="color:#ff4ec7; text-align:center;">Welcome to my profile!</h1>
+![Welcome](https://img.shields.io/badge/Welcome_to_my_profile!-FF4EC7?style=for-the-badge&logo=github)
+
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
